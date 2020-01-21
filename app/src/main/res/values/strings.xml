@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Navigation Component App</string>
+
+<!--  Start Fragment-->
+    <string name="start_action_bar_title">Start</string>
+    <string name="start_button_text_next">Next</string>
+
+<!--    Profile Fragment-->
+    <string name="profile_action_bar_title">Profile</string>
+</resources>
